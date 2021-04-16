@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xb-bxy&show_icons=true&title_color=ff2686&icon_color=FB7299&text_color=FB7299&bg_color=ffffff&hide_title=false&locale=cn" />
 <!--
 **xb-bxy/xb-bxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
